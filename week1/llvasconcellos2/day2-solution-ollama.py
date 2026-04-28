@@ -35,7 +35,8 @@ log = logging.getLogger(__name__)
 # ---------------------------------------------------------------------------
 # MODEL = "deepseek-r1:1.5b"
 # MODEL = "llama3.2"
-MODEL = "gpt-oss"
+# MODEL = "gpt-oss"
+MODEL = "mistral-nemo"
 MAX_TOKENS = 2048
 
 URLS = {
